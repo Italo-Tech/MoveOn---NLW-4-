@@ -23,9 +23,16 @@ Aprendi teorias como fluxo de API, SPA, SSR, SSG e muito mais.
 Sistema desenvolvido com base no conhecimento adiquirido durante a semana do evento **&lt;nlw/&gt;** da **rocketseat**, ministrado pelo [Diego Fernandes](https://github.com/diego3g).
 
 
+<div align="center">
+  <img alt="Frontend-Web" src="./public/mode-dark.png" width="100%">
+  <img alt="Frontend-Web" src="./public/mode-white.png" width="100%">
+</div>
+
 ## 👨🏼‍💻 Desenvolvedor 
 
-- [Ítalo Henrique](https://www.linkedin.com/in/italo-tech/)
+- [Linkedin](https://www.linkedin.com/in/italo-tech/)
+- [Github](https://github.com/Italo-Tech)
+- [Rocketseat](https://app.rocketseat.com.br/me/italo-tech)
 
 ## :rocket: Tecnologias
 
