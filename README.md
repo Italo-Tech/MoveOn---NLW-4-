@@ -7,13 +7,19 @@
 </h2>
 
 <p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-desenvolvedor">Desenvolvedor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-improvements">Improvements</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### Na trilha do ReactJS
+## 💻 Projeto
 
-## :bookmark_tabs: About
+O MoveOn é um aplicativo da web que ajuda as pessoas que passam longos períodos em frente ao computador a minimizar os impactos na saúde por meio de pequenos exercícios.músculo
+
+Nesta aplicação foi possível aprofundar o conhecimento em react hooks (estado, efeito, contexto).
+Aprendi teorias como fluxo de API, SPA, SSR, SSG e muito mais.
+
 Sistema desenvolvido com base no conhecimento adiquirido durante a semana do evento **&lt;nlw/&gt;** da **rocketseat**, ministrado pelo [Diego Fernandes](https://github.com/diego3g).
 
 ## 👨🏼‍💻 Desenvolvedor 
@@ -35,11 +41,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Sidebar
 - Countdown baseado na XP do Level
 - Timer para abandonar baseado no Coutdown
-
-
-## 💻 Projeto
-
-O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
 
 ## Passos para utilizar 
 1. Faça um clone desse repositório;
