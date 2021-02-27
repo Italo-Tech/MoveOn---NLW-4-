@@ -15,12 +15,13 @@
 
 ## 💻 Projeto
 
-O MoveOn é um aplicativo da web que ajuda as pessoas que passam longos períodos em frente ao computador a minimizar os impactos na saúde por meio de pequenos exercícios.músculo
+O MoveOn é um aplicativo da web que ajuda as pessoas que passam longos períodos em frente ao computador a minimizar os impactos na saúde por meio de pequenos exercícios.
 
 Nesta aplicação foi possível aprofundar o conhecimento em react hooks (estado, efeito, contexto).
 Aprendi teorias como fluxo de API, SPA, SSR, SSG e muito mais.
 
 Sistema desenvolvido com base no conhecimento adiquirido durante a semana do evento **&lt;nlw/&gt;** da **rocketseat**, ministrado pelo [Diego Fernandes](https://github.com/diego3g).
+
 
 ## 👨🏼‍💻 Desenvolvedor 
 
